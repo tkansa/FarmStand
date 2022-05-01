@@ -21,5 +21,7 @@ namespace FarmStand.Models
 
         public int CategoryId { get; set; }
 
+        public string Notes { get; set; }
+
     }
 }
